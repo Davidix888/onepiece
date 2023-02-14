@@ -19,10 +19,10 @@ Algunas veces esta no avanza como deberia ser y tarda mas de lo esperado en inic
         - Chopper
 
 # Vinculo de wikipedia
-[Pagina de la wikipedia de la serie] (https://onepiece.fandom.com/es/wiki/One_Piece_Wiki#:~:text=One%20Piece%20Wiki%20es%20la,especiales%20de%20TV%20y%20más.)
+[Pagina de la wikipedia de la serie](https://onepiece.fandom.com/es/wiki/One_Piece_Wiki#:~:text=One%20Piece%20Wiki%20es%20la,especiales%20de%20TV%20y%20más.)
 
 # Imagen
-![Imagen del personaje principal] (https://www.pinterest.es/pin/684406474597172344/)
+![Imagen del personaje principal](https://www.pinterest.es/pin/684406474597172344/)
 
 
 
